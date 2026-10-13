@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(10x-prd)",
+      "WebFetch(domain:github.com)",
+      "Bash(xargs -I {} basename {})",
+      "Bash(npx skills *)",
+      "Bash(npx *)"
+    ]
+  }
+}
